@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.justbidclone",
+        "sha256_cert_fingerprints": [
+            "A6:EA:9B:93:03:38:C4:85:53:DC:0F:EE:34:3F:02:AB:2D:3A:FB:15:57:2B:35:78:F4:2E:6A:80:A4:33:73:71"
+        ]
+      }
+    }
+  ]
+  
